@@ -1,2 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.exts/__pycache__/
+
 # Virtual Environment
 .venv/
+
+# Sphinx documentation
+docs/build/
