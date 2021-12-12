@@ -1,22 +1,19 @@
-.. Twemoji-refined documentation master file, created by
-   sphinx-quickstart on Tue Dec  7 21:39:42 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Twemoji-refined's documentation!
-===========================================
+Welcome to Twemoji-refined
+==========================
+
+A data-driven project analysing the emoji in the `Twemoji <https://github.com/twitter/twemoji>`_ set.
+Through several different approaches we aim to improve the cohesiveness of the Twemoji images.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   justification
+   about
 
 
-Indices and tables
-==================
+.. note::
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+  This project is still very much in development
